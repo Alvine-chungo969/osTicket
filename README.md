@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 osTicket
 ========
 <a href="https://osticket.com"><img height="80px" width="80px" src="images/favicon.png"
@@ -115,3 +116,7 @@ osTicket is supported by several magical open source projects including:
   * [php-gettext](https://launchpad.net/php-gettext/)
   * [phpseclib](https://phpseclib.sourceforge.net/)
   * [Spyc](https://github.com/mustangostang/spyc)
+=======
+# osTicket
+A robust, open-source support ticketing system designed for seamless IT support management. Customized for enhanced workflows and branding.
+>>>>>>> 3fef1ceea24db8fe7788c641a5322fffffcad7c7
